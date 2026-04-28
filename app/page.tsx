@@ -97,10 +97,15 @@ export default function MutualAidPage() {
                 </div>
               </div>
               
-              <button className="bg-white text-[#1A1A1A] px-6 py-3 rounded-full font-bold shadow-xl hover:scale-105 transition-transform flex items-center justify-center gap-2 text-sm shrink-0">
+              <a
+                href="https://chuffed.org/project/165852-nour-matar-and-her-husband-bilal-surviving-in-gaza"
+                target="_blank"
+                rel="noreferrer"
+                className="bg-white text-[#1A1A1A] px-6 py-3 rounded-full font-bold shadow-xl hover:scale-105 transition-transform flex items-center justify-center gap-2 text-sm shrink-0"
+              >
                 Support Our Journey
                 <ArrowRight className="w-4 h-4" />
-              </button>
+              </a>
             </div>
           </div>
         </section>
